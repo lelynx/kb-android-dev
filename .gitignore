@@ -1,0 +1,19 @@
+# Variables d'environnement et base de données
+.env
+database/kb.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Divers
+.DS_Store
+*.log
